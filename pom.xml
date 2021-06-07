@@ -102,13 +102,6 @@
         <!-- 			<version>1.7.12</version> -->
         <!-- 		</dependency> -->
         <dependency>
-            <groupId>com.corundumstudio.socketio</groupId>
-            <artifactId>abcpen-socketio</artifactId>
-            <version>1.7.12</version>
-            <scope>system</scope>
-            <systemPath>/Users/jiangzhiru/abcsignal/lib/abcpen-socketio-1.7.12.jar</systemPath>
-        </dependency>
-        <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-log4j12</artifactId>
             <version>${slf4j-log4j12.version}</version>
